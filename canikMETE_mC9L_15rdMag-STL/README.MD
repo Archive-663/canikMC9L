@@ -1,5 +1,8 @@
 ## Canik MC9L 15 round magazine base plate	
 
+![canikMC9L_15rdBasePlate_1](https://github.com/Archive-663/canikMC9L/blob/main/ASSETS/PHOTO/JPG-HD/canik%20(3).jpg)
+![canikMC9L_15rdBasePlate_2](https://github.com/Archive-663/canikMC9L/blob/main/ASSETS/PHOTO/JPG-HD/canik%20(1).jpg)
+
 ### Features:
 - Converts 17 round magazines to 15 round magazines
 
